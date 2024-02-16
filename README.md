@@ -73,3 +73,9 @@ youtubeのハイライト動画のコメント欄やSNSでの投稿など色々�
 - Ruby on Rails
 - PostgreSQL
 - WebSocket
+
+# 画面遷移図
+https://www.figma.com/file/uiMlZNNUIIMXct48IkZBn5/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=6i3oBnC7XZHIQtxK-1
+
+# ER図
+https://gyazo.com/5ee96d3ac82eaecb596a7536515e0671
